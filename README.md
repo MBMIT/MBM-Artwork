@@ -1,2 +1,0 @@
-# MBM-Artwork
-MBM Artwork
